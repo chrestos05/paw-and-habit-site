@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chrestos05.github.io/paw-and-habit-site/sitemap.xml
